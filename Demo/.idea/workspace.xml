@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="imsdk|SystemUtil" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc051b9f-ecf3-4e9d-b552-1b0c27a11383" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/TIMSDK_MultiProcess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle___imsdk_plus_release__aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tencent_liteav_LiteAVSDK_TRTC_10_0_0_11953_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle___imsdk_plus_debug__aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tencent_liteav_LiteAVSDK_TRTC_9_9_0_11821_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1031818074/Demo.tuicontact.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1031818074/Demo.tuicontact.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1064577922/Demo.tuiconversation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1064577922/Demo.tuiconversation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1267807034/Demo.tuigroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1267807034/Demo.tuigroup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1715657178/Demo.tuicalling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1715657178/Demo.tuicalling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-2126494586/Demo.tuiofflinepush.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-2126494586/Demo.tuiofflinepush.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-783904760/Demo.tuisearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-783904760/Demo.tuisearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-858146634/Demo.tuicore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-858146634/Demo.tuicore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/834320168/Demo.tuichat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/834320168/Demo.tuichat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/qcloud/tim/demo/signature/GenerateTestUserSig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/qcloud/tim/demo/signature/GenerateTestUserSig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TUIKit/TUICore/tuicore/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../TUIKit/TUICore/tuicore/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@DUPNW17B27002853]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Demo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="295kv9fK3ctDPlKMa72ORmqdDQA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/../TUIKit/TUIGroup/tuigroup" />
+      <recent name="$PROJECT_DIR$/../TUIKit/TUICore/tuicore/libs" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/tencent/qcloud/tim/demo/login" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Demo.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc051b9f-ecf3-4e9d-b552-1b0c27a11383" name="Default Changelist" comment="" />
+      <created>1652410561812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652410561812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1871" height="411" key="GridCell.Tab.0.bottom" timestamp="1653293551816">
+      <screen x="-419" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1871" height="411" key="GridCell.Tab.0.bottom/-419.-1417.2560.1417/0.23.1792.1046@-419.-1417.2560.1417" timestamp="1653293551816" />
+    <state width="1871" height="411" key="GridCell.Tab.0.center" timestamp="1653293551813">
+      <screen x="-419" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1871" height="411" key="GridCell.Tab.0.center/-419.-1417.2560.1417/0.23.1792.1046@-419.-1417.2560.1417" timestamp="1653293551813" />
+    <state width="1871" height="411" key="GridCell.Tab.0.left" timestamp="1653293551812">
+      <screen x="-419" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1871" height="411" key="GridCell.Tab.0.left/-419.-1417.2560.1417/0.23.1792.1046@-419.-1417.2560.1417" timestamp="1653293551812" />
+    <state width="1871" height="411" key="GridCell.Tab.0.right" timestamp="1653293551815">
+      <screen x="-419" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1871" height="411" key="GridCell.Tab.0.right/-419.-1417.2560.1417/0.23.1792.1046@-419.-1417.2560.1417" timestamp="1653293551815" />
+    <state x="714" y="-1028" width="1158" height="626" key="find.popup" timestamp="1652432562369">
+      <screen x="-419" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="714" y="-1028" width="1158" height="626" key="find.popup/-419.-1417.2560.1417/0.23.1792.1046@-419.-1417.2560.1417" timestamp="1652432562369" />
+    <state x="590" y="-1041" width="670" height="676" key="search.everywhere.popup" timestamp="1653293589600">
+      <screen x="-419" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="590" y="-1041" width="670" height="676" key="search.everywhere.popup/-419.-1417.2560.1417/0.23.1792.1046@-419.-1417.2560.1417" timestamp="1653293589600" />
+  </component>
+</project>

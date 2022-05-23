@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tencent.qcloud.tim.demo">
+
+    <application
+        android:name=".DemoApplication"
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".TestMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".login.LoginForDevActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".login.LoginForDevOtherActivity"
+            android:screenOrientation="portrait"
+            android:process=":other"/>
+
+        <activity
+            android:name=".main.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:multiprocess="true"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+
+            <!-- 离线推送打开应用内页面 -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data
+                    android:host="com.tencent.qcloud"
+                    android:path="/detail"
+                    android:scheme="pushscheme" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".LanguageReceiver"
+            android:enabled="true"
+            android:multiprocess="true"
+            android:exported="false">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".profile.SelfDetailActivity"
+            android:multiprocess="true"
+            android:screenOrientation="portrait" />
+        <activity android:name=".profile.AboutIMActivity"
+            android:multiprocess="true"
+            android:screenOrientation="portrait" />
+
+
+        <activity android:name=".login.ThemeSelectActivity"
+            android:multiprocess="true"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".login.LanguageSelectActivity"
+            android:multiprocess="true"
+            android:screenOrientation="portrait"/>
+
+    </application>
+
+</manifest>

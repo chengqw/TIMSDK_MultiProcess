@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.liteav:LiteAVSDK_TRTC:10.0.0.11953@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/878684d43dd57f0c8a660d28f573e48d/jetified-LiteAVSDK_TRTC-10.0.0.11953/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/878684d43dd57f0c8a660d28f573e48d/jetified-LiteAVSDK_TRTC-10.0.0.11953/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/878684d43dd57f0c8a660d28f573e48d/jetified-LiteAVSDK_TRTC-10.0.0.11953/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

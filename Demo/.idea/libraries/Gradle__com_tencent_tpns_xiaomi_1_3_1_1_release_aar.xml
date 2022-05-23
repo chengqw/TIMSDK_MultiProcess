@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.tpns:xiaomi:1.3.1.1-release@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b8cce39fd7a856d2101883cbc818f22/xiaomi-1.3.1.1-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b8cce39fd7a856d2101883cbc818f22/xiaomi-1.3.1.1-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b8cce39fd7a856d2101883cbc818f22/xiaomi-1.3.1.1-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b8cce39fd7a856d2101883cbc818f22/xiaomi-1.3.1.1-release/jars/libs/tpns-xiaomi-1.3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.tpns/xiaomi/1.3.1.1-release/7a9f53ee727292c4d2848f7a453277d7625bb63e/xiaomi-1.3.1.1-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

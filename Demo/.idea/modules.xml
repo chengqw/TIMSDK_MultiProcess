@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1715657178/Demo.tuicalling.iml" filepath="$PROJECT_DIR$/.idea/modules/-1715657178/Demo.tuicalling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/834320168/Demo.tuichat.iml" filepath="$PROJECT_DIR$/.idea/modules/834320168/Demo.tuichat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1031818074/Demo.tuicontact.iml" filepath="$PROJECT_DIR$/.idea/modules/-1031818074/Demo.tuicontact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1064577922/Demo.tuiconversation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1064577922/Demo.tuiconversation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-858146634/Demo.tuicore.iml" filepath="$PROJECT_DIR$/.idea/modules/-858146634/Demo.tuicore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1267807034/Demo.tuigroup.iml" filepath="$PROJECT_DIR$/.idea/modules/-1267807034/Demo.tuigroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2126494586/Demo.tuiofflinepush.iml" filepath="$PROJECT_DIR$/.idea/modules/-2126494586/Demo.tuiofflinepush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-783904760/Demo.tuisearch.iml" filepath="$PROJECT_DIR$/.idea/modules/-783904760/Demo.tuisearch.iml" />
+    </modules>
+  </component>
+</project>

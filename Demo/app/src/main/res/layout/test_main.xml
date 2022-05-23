@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/shape_dialog"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/main_processs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/btn_margin_top"
+        android:clickable="true"
+        android:drawablePadding="16dp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="main process"
+        android:textColor="#666666"
+        android:textSize="14sp"/>
+
+    <Button
+        android:id="@+id/other_process"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_processs"
+        android:clickable="true"
+        android:drawablePadding="16dp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="other process"
+        android:textColor="#666666"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/info"
+        android:text="多进程实例：\n两个进程分别采用不同SDKAPPID登录IMSDK，实现同一应用多个进程登录多个账号"
+        android:layout_marginLeft="5.7dp"
+        android:layout_marginRight="5.7dp"
+        android:layout_below="@+id/other_process"
+        android:layout_marginTop="@dimen/btn_margin_top"
+        android:textSize="13.44sp"
+        android:textColor="@color/font_blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
